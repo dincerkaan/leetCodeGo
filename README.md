@@ -1,0 +1,2 @@
+# leetCodeGo
+LeetCode Go blog
